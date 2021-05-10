@@ -1,0 +1,17 @@
+git init // initilisation
+git clone // pourcloner le projet en ligne dans la machine
+
+pour envoyer
+git push origin nom_de_la_branche
+
+pour recuperer 
+git pull origin nom_de_la_branche
+
+
+pour creer une branche
+git branch nom_de_la_branche
+
+pour basculer sur cette branche
+git checkout nom_de_la_branche
+
+git status // pour voir les fichiers
