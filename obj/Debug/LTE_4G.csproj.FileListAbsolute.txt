@@ -1,0 +1,9 @@
+E:\Application Desktop\C#\LTE_4G\bin\Debug\LTE_4G.exe.config
+E:\Application Desktop\C#\LTE_4G\bin\Debug\LTE_4G.exe
+E:\Application Desktop\C#\LTE_4G\bin\Debug\LTE_4G.pdb
+E:\Application Desktop\C#\LTE_4G\obj\Debug\LTE_4G.csprojAssemblyReference.cache
+E:\Application Desktop\C#\LTE_4G\obj\Debug\LTE_4G.Properties.Resources.resources
+E:\Application Desktop\C#\LTE_4G\obj\Debug\LTE_4G.csproj.GenerateResource.cache
+E:\Application Desktop\C#\LTE_4G\obj\Debug\LTE_4G.exe
+E:\Application Desktop\C#\LTE_4G\obj\Debug\LTE_4G.pdb
+E:\Application Desktop\C#\LTE_4G\obj\Debug\LTE_4G.connexion.resources
